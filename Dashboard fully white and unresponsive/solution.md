@@ -1,0 +1,3 @@
+✅ The error I suspected was Plugin based, something that would happen in the backend and not show any explicit signs.
+I enabled debugging to expose the real error, then located the plugin causing it, and dsiabled it to restore access to the dashboard.
+After a little investigation, I realised that the plugin had not been tested with the latest version of wordpress and this must have caused the error.
