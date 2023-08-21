@@ -1,0 +1,2 @@
+⚠️ Client said they thought their website had been hacked because their website was showing "Not secure", but later relaized in some browsers it was opening up normally. They said after a little investigation they realised it was an SSL issue but didn't know how to resolve it.
+They had recently installed the SSL certificate and started getting the security warnings and it's turning visitors away.
