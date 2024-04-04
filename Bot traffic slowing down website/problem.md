@@ -1,0 +1,2 @@
+⚠️ Client reported that their website had suddenly become slow, unresponsive and sometimes going down completely. They said they had not made any changes that could point in that direction and they didn't also see from their analytics that there was increased user traffic.
+When they reached out to their hosting support, the response was "high server usage".
