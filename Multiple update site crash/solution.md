@@ -1,0 +1,2 @@
+✅ I requested their CPanel details which they provided, I logged into their server and searched for the [.maintenance] file which I was already aware must have been created during the update. 
+I located and deleted the file and the site was up and running immedistely
