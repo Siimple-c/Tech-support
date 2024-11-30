@@ -1,0 +1,1 @@
+⚠️ A travel agency client reached out that he was unable to upload files to their website using FileZilla FTP. They kept getting "Connection timed out" errors despite using the right credentials which they had used before.
