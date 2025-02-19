@@ -1,0 +1,1 @@
+⚠️ Client says some of their pages are not showing up on google search. They has recently added blog posts and updated their theme but didn't notice or get a hint that anything had gone bad.
