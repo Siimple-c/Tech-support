@@ -1,0 +1,1 @@
+⚠️ A returning client contacted me, saying that a section of their websites homepage had suddenly vanished. H esaid it wasn't a minor issue as the entire thing was not coming up at all, regardless of the device he tried it on or how many times he refreshed the site.
